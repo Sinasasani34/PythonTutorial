@@ -1,0 +1,2 @@
+MAX_AGE = 18
+print(MAX_AGE)
