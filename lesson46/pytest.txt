@@ -1,0 +1,9 @@
+PyTest package
+
+use pip tool for installing packages
+
+command
+python -m pip install --upgrade pip
+
+install PyTest
+python -m pip install --user pytest || pip install pytest
